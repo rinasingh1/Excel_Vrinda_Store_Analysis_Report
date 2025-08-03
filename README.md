@@ -12,9 +12,9 @@ Vrinda store wants to create an annual sales report for 2022. So that, Vrinda ca
 
 ⦁	 excel's TEXT function is used - in month column to extract month only the formula =TEXT(H2,"mmm")
 
-2) Pivot Table : To analyse this objective Excel's PIVOT TABLE is used 
-   Pivot Charts : For visualization pivot charts are used. 
- 
+2) ⦁	PIVOT TABLE - used and for analysis visualization 
+   ⦁	PIVOT CHARTS - for visualization
+
 Using these charts the followings questions are visualized:
 
 ⦁	  Compare the sales and order using single chart- Combo Chart is used 
