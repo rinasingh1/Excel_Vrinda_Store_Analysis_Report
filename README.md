@@ -24,7 +24,7 @@ Vrinda store wants to create an annual sales report for 2022. So that, Vrinda ca
 
  6. which channel contributing to the maximum sale ? - Pie Chart is used, the analysis "Amazon, Myntra and Flipkart channels are the max contributors (~80%)
 
-###Conclusion :  to improve Vrinda store sales
+##Conclusion :  to improve Vrinda store sales
 
  • Target Women customers of age group (30-49 yrs) living in Maharashtra Karnatka and Uttar Pradesh, Telangana and Tamilnadu by showing ads/offers/coupons/available on Amazon, Myntra and Flipkart.
 
