@@ -44,6 +44,13 @@ the data is cleaned and processed
 <br>
 •	Amazon, Flipkart and Myntra channels are maximum contributors (~80%)
 
+## Conclusion 
+to improve Vrinda store sales 
+    
+    • Target Women customers of age group (30-49 yrs) living in Maharashtra, Karnatka, Uttar Pradesh, Telangana and Tamilnadu 
+      by showing ads/offers/coupons/available on Amazon, Myntra and Flipkart.
+
+
 
 
 
@@ -55,36 +62,7 @@ the data is cleaned and processed
 
   
 
-    ⦁ excel's Replace function is used - in gender column 'W' is replaced with 'Women' and 'M' is replaced with 'Men'
-
-    ⦁ excel's IF Condition is used to keep the age in a bucket - column name is Age Group formula =IF(E2>60,"Senior",IF(E1>20,"Adult",IF(E2<=20,"Teenager")))
-
-    ⦁ excel's TEXT function is used - in month column to extract month only the formula =TEXT(H2,"mmm")
-
-  PIVOT TABLE and PIVOT CHARTS have been used for analysis and visualization.
-
-  Using these charts the followings questions are visualized:
-
-   ⦁ Compare the sales and order using single chart- Combo Chart is used 
-
-   ⦁ who purchased more men or women in 2022? - Pie Chart is used, the analysis is "Women are more likely to buy compared to men (~65%)"
-
-   ⦁ hat are different order statuses in 2022? - Pie Chart is used, the analysis is "Delivered status is about 92% compared to other order statuses; those are returned (2%),refunded            (3%) and cancelled (3%).
-
-   ⦁ List the top 5 states contributing to sales - Bar Chart is used, the analysis is " Maharashtra, Karnatka ,and Uttar Pradesh, Telangana and Tamilnadu are the top 5 states (~52%)
-
-   ⦁ Purchasing status according to Age & Gender - Column Chart is used, "the analysis is "The adult age group (30-49 yrs) is the maximum contributor (~50%)"
-
-   ⦁ which channel contributes to the maximum sale ? - Pie Chart is used, the analysis "Amazon, Myntra and Flipkart channels are the maximum contributor (~80%)
-
-
-## Conclusion :  
-    to improve Vrinda store sales 
-    
-    • Target Women customers of age group (30-49 yrs) living in Maharashtra, Karnatka, Uttar Pradesh, Telangana and Tamilnadu 
-      by showing ads/offers/coupons/available on Amazon, Myntra and Flipkart.
-
-
-
+   
+  
 
 
