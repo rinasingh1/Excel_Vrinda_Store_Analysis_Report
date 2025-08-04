@@ -7,6 +7,7 @@ Vrinda store wants to create an annual sales report for 2022. So that, Vrinda ca
 
 ## Question <br>
 •	Which month got the highest sales and order ?
+<br>
 •	Who purchased more, men or women in 2022 ?
 •	What are the different order statuses in 2022 ? 
 •	List top 5 states contributing to the sales?
