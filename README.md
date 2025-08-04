@@ -50,7 +50,7 @@ the data is cleaned and processed
 ## Conclusion 
 to improve Vrinda store sales 
     
-    • Target Women customers of age group (30-49 yrs) living in Maharashtra, Karnatka, Uttar Pradesh, Telangana and Tamilnadu 
+    • Target Women customers of age group (30-49 years) living in Maharashtra, Karnatka, Uttar Pradesh, Telangana and Tamilnadu 
       by showing ads/offers/coupons/available on Amazon, Myntra and Flipkart.
 
 
