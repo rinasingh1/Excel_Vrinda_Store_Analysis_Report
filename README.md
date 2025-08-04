@@ -3,7 +3,7 @@
 Vrinda store wants to create an annual sales report for 2022. So that, Vrinda can understand their customers and grow more sales in 2023.
 
 ## Dataset used
-- <a href = "https://github.com/rinasingh1/Excel_Vrinda_Store_Analysis_Report/blob/main/Dataset.xlsx">Vrinda Store Dataset</a>
+<a href = "https://github.com/rinasingh1/Excel_Vrinda_Store_Analysis_Report/blob/main/Dataset.xlsx">Vrinda Store Dataset</a>
   
 
     ⦁ excel's Replace function is used - in gender column 'W' is replaced with 'Women' and 'M' is replaced with 'Men'
