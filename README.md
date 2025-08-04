@@ -18,7 +18,8 @@ Vrinda store wants to create an annual sales report for 2022. So that, Vrinda ca
 <br>
 •	Which channel is contributing to the maximum sales?
 <br>
-•	highest selling category ? Etc.
+•	highest selling category ? 
+•	Dashboard Interaction 
 
 
   
