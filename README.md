@@ -2,7 +2,7 @@
 ## Objective : 
 Vrinda store wants to create an annual sales report for 2022. So that, Vrinda can understand their customers and grow more sales in 2023.
 
-## steps which have taken to complete the project:
+## Steps which have taken to complete the project:
 
 1) data cleaning & processing :
 
@@ -30,7 +30,7 @@ Vrinda store wants to create an annual sales report for 2022. So that, Vrinda ca
 
 
 ## Conclusion :  
-to improve Vrinda store sales
+to improve Vrinda store sales <br>
    • Target Women customers of age group (30-49 yrs) living in Maharashtra, Karnatka, Uttar Pradesh, Telangana and Tamilnadu by showing ads/offers/coupons/available on Amazon, Myntra and      Flipkart.
 
 
