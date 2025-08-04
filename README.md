@@ -23,9 +23,13 @@ Vrinda store wants to create an annual sales report for 2022. So that, Vrinda ca
 
 ## Process
 the data is cleaned and processed
+<br>
 •	Replace function is used - in gender column where 'W' is replaced with 'Women' and 'M' is replaced with 'Men'
+<br>
 •	IF Condition is used to keep the age in a bucket - column name is Age Group formula =IF(E2>60,"Senior",IF(E1>20,"Adult",IF(E2<=20,"Teenager")))
+<br>
 •	TEXT function is used - in month column to extract month only the formula =TEXT(H2,"mmm")
+<br>
 •	PIVOT TABLE and PIVOT CHARTS have been used for analysis and visualization
 
 
