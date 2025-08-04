@@ -32,6 +32,9 @@ the data is cleaned and processed
 <br>
 •	PIVOT TABLE and PIVOT CHARTS have been used for analysis and visualization
 
+## Dashboard
+![image alt] (https://github.com/rinasingh1/Excel_Vrinda_Store_Analysis_Report/blob/3521c5e02f22d81f7c2756ce9eafbb1ec8e1e814/Dashboard_Image.png)
+
 
 
 
