@@ -36,6 +36,9 @@ the data is cleaned and processed
 
 
 
+
+
+
   
 
     ⦁ excel's Replace function is used - in gender column 'W' is replaced with 'Women' and 'M' is replaced with 'Men'
