@@ -4,6 +4,17 @@ Vrinda store wants to create an annual sales report for 2022. So that, Vrinda ca
 
 ## Dataset used
 <a href = "https://github.com/rinasingh1/Excel_Vrinda_Store_Analysis_Report/blob/main/Dataset.xlsx">Vrinda Store Dataset</a>
+
+## Question 
+•	Which month got the highest sales and order ?
+•	Who purchased more, men or women in 2022 ?
+•	What are the different order statuses in 2022 ? 
+•	List top 5 states contributing to the sales?
+•	Relation between age and gender based on number of orders
+•	Which channel is contributing to the maximum sales?
+•	highest selling category ? Etc.
+
+
   
 
     ⦁ excel's Replace function is used - in gender column 'W' is replaced with 'Women' and 'M' is replaced with 'Men'
