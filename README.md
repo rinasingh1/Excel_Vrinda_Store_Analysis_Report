@@ -5,7 +5,7 @@ Vrinda store wants to create an annual sales report for 2022. So that, Vrinda ca
 ## Dataset used
 <a href = "https://github.com/rinasingh1/Excel_Vrinda_Store_Analysis_Report/blob/main/Dataset.xlsx">Vrinda Store Dataset</a>
 
-## Question 
+## Question <br>
 •	Which month got the highest sales and order ?
 •	Who purchased more, men or women in 2022 ?
 •	What are the different order statuses in 2022 ? 
