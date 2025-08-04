@@ -35,6 +35,17 @@ the data is cleaned and processed
 ## Dashboard
 ![image alt](https://github.com/rinasingh1/Excel_Vrinda_Store_Analysis_Report/blob/3521c5e02f22d81f7c2756ce9eafbb1ec8e1e814/Dashboard_Image.png)
 
+## Project Insight <br>
+•	Women are more likely to buy compared to men (~65%)
+<br>
+•	Maharashtra,Karnatka,and Uttar Pradesh are the top 3 states (~35%)
+<br>
+•	Adult age group (30-49 years) is maximum contributor (~50%)
+<br>
+•	Amazon, Flipkart and Myntra channels are maximum contributors (~80%)
+
+
+
 
 
 
