@@ -1,20 +1,19 @@
 # Excel_Vrinda_Store_Analysis_Report
-## Objective : 
+## Projective Objective : 
 Vrinda store wants to create an annual sales report for 2022. So that, Vrinda can understand their customers and grow more sales in 2023.
 
-## Steps which have taken to complete the project:
+## Dataset used
+  
 
-1) data cleaning & processing :
+    ⦁ excel's Replace function is used - in gender column 'W' is replaced with 'Women' and 'M' is replaced with 'Men'
 
-    ⦁	 excel's Replace function is used - in gender column 'W' is replaced with 'Women' and 'M' is replaced with 'Men'
+    ⦁ excel's IF Condition is used to keep the age in a bucket - column name is Age Group formula =IF(E2>60,"Senior",IF(E1>20,"Adult",IF(E2<=20,"Teenager")))
 
-    ⦁	 excel's IF Condition is used to keep the age in a bucket - column name is Age Group formula =IF(E2>60,"Senior",IF(E1>20,"Adult",IF(E2<=20,"Teenager")))
+    ⦁ excel's TEXT function is used - in month column to extract month only the formula =TEXT(H2,"mmm")
 
-    ⦁	 excel's TEXT function is used - in month column to extract month only the formula =TEXT(H2,"mmm")
+  PIVOT TABLE and PIVOT CHARTS have been used for analysis and visualization.
 
-2) PIVOT TABLE and PIVOT CHARTS have been used for analysis and visualization.
-
-   Using these charts the followings questions are visualized:
+  Using these charts the followings questions are visualized:
 
    ⦁ Compare the sales and order using single chart- Combo Chart is used 
 
