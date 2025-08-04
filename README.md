@@ -18,7 +18,6 @@ Vrinda store wants to create an annual sales report for 2022. So that, Vrinda ca
 <br>
 •	Which channel is contributing to the maximum sales?
 <br>
-•	highest selling category ? 
 •	Dashboard Interaction <a href = "https://github.com/rinasingh1/Excel_Vrinda_Store_Analysis_Report/blob/main/Dashboard_Image.png">View Dashboard</a>
 
 ## Process
@@ -36,9 +35,13 @@ the data is cleaned and processed
 ![image alt](https://github.com/rinasingh1/Excel_Vrinda_Store_Analysis_Report/blob/3521c5e02f22d81f7c2756ce9eafbb1ec8e1e814/Dashboard_Image.png)
 
 ## Project Insight <br>
+•	March month got the highest sales and orders
+<br>
 •	Women are more likely to buy compared to men (~65%)
 <br>
-•	Maharashtra,Karnatka,and Uttar Pradesh are the top 3 states (~35%)
+•	More than 90% of the products delivered
+<br>
+•	Maharashtra,Karnatka,and Uttar Pradesh, Telangana and Tamilnadu are the top 5 states (~52%)
 <br>
 •	Adult age group (30-49 years) is maximum contributor (~50%)
 <br>
